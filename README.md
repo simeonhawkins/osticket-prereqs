@@ -18,11 +18,14 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <h2>List of Prerequisites</h2>
 
-- Item 1
-- Item 2
-- Item 3
-- Item 4
-- Item 5
+- Connect to your Virtual Machine with Remote Desktop
+- Install/Enable IIS in Windows
+- Install Web Platform Installer
+- Install osTicket (current version)
+- Download and Install HeidiSQL
+- Created database for "osTicket"
+- Clean up
+- Change File Permissions
 
 <h2>Installation Steps</h2>
 
@@ -30,7 +33,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Create a Windows 10 Virtual Machine using 2/4 virtual CPUs to ensure you are not troubled with hiccups and slow movement throughout the lab. Allow the VM to create a new Vnet which should be done by default.
 </p>
 <br />
 
