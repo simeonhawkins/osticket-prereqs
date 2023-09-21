@@ -28,12 +28,12 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 - Change File Permissions
 
 <h2>Installation Steps</h2>
+<img width="628" alt="Screenshot 2023-09-21 063316" src="https://github.com/simeonhawkins/osticket-prereqs/assets/125813320/42607fb2-bf7e-4c3d-a613-609e469b7295">
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Create a Windows 10 Virtual Machine using 2/4 virtual CPUs to ensure you are not troubled with hiccups and slow movement throughout the lab. Allow the VM to create a new Vnet which should be done by default.
+Create a Windows 10 Virtual Machine using 2/4 virtual CPUs to ensure you're not hindered by sluggish performance throughout the lab. Allow the VM to create a new Vnet which should be done by default.
 </p>
 <br />
 
